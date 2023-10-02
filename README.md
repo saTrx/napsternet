@@ -9,7 +9,7 @@
 - مرحله دوم : افزودن فایل به برنامه
 ![image](https://github.com/saTrx/napsternet/assets/110351988/d2f08d5b-444b-477b-8d9d-65b61c4c6c17)
 
-  ![image](https://github.com/saTrx/napsternet/assets/110351988/050e4b5f-cf42-4170-bb9b-f58c923c4310)
+![image](https://github.com/saTrx/napsternet/assets/110351988/050e4b5f-cf42-4170-bb9b-f58c923c4310)
 
 
 بعد از این مرحله روی ok کلیک کرده و از پوشه Downloads فایل دانلود شده رو انتخاب می کنیم و فایل با موفقیت به برنامه افزوده میشه . 
