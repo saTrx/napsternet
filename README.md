@@ -1,16 +1,1 @@
-# آموزش کانفیگ کردن نپسترنت 
-طبق تصاویر مرحله به مرحله پیش برید . 
-- مرحله اول : فرستادن کد
-
-![image](https://github.com/saTrx/napsternet/assets/110351988/608b0772-14fb-4af5-9926-d880b51e9ccd)
-
-بعد از فرستادن کد کپی شده به بنده لینک دانلود فایل برای شما ارسال میشه . 
-بعد از دانلود فایل طبق اموزش زیر فایل رو به برنامه اضافه می کنیم . 
-- مرحله دوم : افزودن فایل به برنامه
-- 
-![image](https://github.com/saTrx/napsternet/assets/110351988/d2f08d5b-444b-477b-8d9d-65b61c4c6c17)
-
-![image](https://github.com/saTrx/napsternet/assets/110351988/050e4b5f-cf42-4170-bb9b-f58c923c4310)
-
-
-  بعد از این مرحله روی ok کلیک کرده و از پوشه Downloads فایل دانلود شده رو انتخاب می کنیم و فایل با موفقیت به برنامه افزوده میشه . 
+vless://c2a33a2c-75ce-4782-b0f1-f9d4fc48ff6b@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pixerschoolwebsite.bivokif100.workers.dev&type=ws&sni=pixerschoolwebsite.bivokif100.workers.dev#mci+free
