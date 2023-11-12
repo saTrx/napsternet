@@ -1,1 +1,1 @@
-vless://c2a33a2c-75ce-4782-b0f1-f9d4fc48ff6b@discord.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pixerschoolwebsite.bivokif100.workers.dev&type=ws&sni=pixerschoolwebsite.bivokif100.workers.dev#mci+free
+vless://7571edaf-6706-4dd5-8b4d-0517b8ddb502@trx.superuser.sbs:80?path=%2F&security=none&encryption=none&type=ws#Ls
