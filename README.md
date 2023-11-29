@@ -1,1 +1,1 @@
-vless://6882e394-9077-4d12-af2e-34f65132d05d@local.superuser.sbs:80?security=&type=ws&path=/&encryption=none#rx1
+vless://2329061d-35ab-4fdf-8d08-451b3db61eb3@local.superuser.sbs:80?type=ws&path=%2F&security=none#Mci-Areftizro
